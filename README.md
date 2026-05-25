@@ -1,6 +1,6 @@
 # Toxic Creaking
 
-[Toxic Creaking Logo]
+![Mod Logo](https://github.com/foxinerd/toxic_creaking/blob/master/forReadMe/toxic_creaking_logo.png)
 
 (This is my first published mod. I've done some practice behind the scenes for a couple months, making a big ol' overhaul mod of sorts, and I decided to make one of my favorite features of it a standalone.)
 
@@ -11,26 +11,25 @@ Well, this mod's a lil different!
 Creakings still retain their vanilla damage values, but whenever they attack the player, they inflict a new debuff: **Resin Poisoning**.
 This effect lasts for 2 minutes, reducing the Player's max HP by 2 (1 heart) per stack. "What do you mean by 'per stack'?", you might be asking. Well, every time a Creaking attacks a player that already has Resin Poisoning, the duration resets AND it's level goes up by 1, further reducing max HP. Now you have a real reason to fear the pale gardener!
 
-[demo gif of resin poison debuff and player attacked by creaking]
+![demo gif of resin poison debuff and player attacked by creaking](https://github.com/foxinerd/toxic_creaking/blob/master/forReadMe/resin_poison_demo.gif)
 
 ## Bonus: New Potions
 Toxic Creaking also adds 2 new potions: **Potion of Creaking** and **Potion of Vitality**.
 
 A Potion of Creaking is made by adding a Resin Clump to an Awkard Potion, like so:
 
-[image of brewing GUI, resin clump in input slot]
-
-[image of brewing GUI, Potions of Creaking made]
+![image of brewing GUI, resin clump in input slot](https://github.com/foxinerd/toxic_creaking/blob/master/forReadMe/creaking_potion_brew1.png)
+![image of brewing GUI, Potions of Creaking made](https://github.com/foxinerd/toxic_creaking/blob/master/forReadMe/creaking_potion_brew2.png)
 * **Base:** Resin Poisoning II for 1:30, reduces max HP by 4.
 * **Extended (+Redstone):** Resin Poisoning II for 3:00
 * **Amplified (+Glowstone):** Resin Poisoning III for 0:45, reduces max HP by 6.
 
 Meanwhile, a Potion of Vitality is made by corrupting (or rather, purifying) a Potion of Creaking through a Fermented Spider Eye:
 
-[image of brewing GUI, fse in input slot]
-
-[image of brewing GUI, Potions of Vitality made]
+![image of brewing GUI, fse in input slot](https://github.com/foxinerd/toxic_creaking/blob/master/forReadMe/vitality_potion_brew1.png)
+![image of brewing GUI, Potions of Vitality made](https://github.com/foxinerd/toxic_creaking/blob/master/forReadMe/vitality_potion_brew2.png)
 * **Base:** Health Boost II for 3:00, increases max HP by 8.
 * **Extended (+Redstone):** Health Boost II for 8:00
 * **Amplified (+Glowstone):** Health Boost III for 1:30, increases max HP by 12.
-  Potions of Vitality also grant a very brief but strong Regeneration effect, to fill the new hearts gained without putting a strain on the player's hunger bar.
+  
+Potions of Vitality also grant a very brief but strong Regeneration effect, to fill the new hearts gained without putting a strain on the player's hunger bar.
