@@ -13,6 +13,8 @@ This effect lasts for 2 minutes, reducing the Player's max HP by 2 (1 heart) per
 
 ![demo gif of resin poison debuff and player attacked by creaking](https://github.com/foxinerd/toxic_creaking/blob/master/forReadMe/resin_poison_demo.gif)
 
+_psst, having the Absorption effect prevents Resin Poisoning from applying!_
+
 ## Bonus: New Potions
 Toxic Creaking also adds 2 new potions: **Potion of Creaking** and **Potion of Vitality**.
 
