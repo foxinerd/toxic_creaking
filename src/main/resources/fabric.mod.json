@@ -3,9 +3,9 @@
 	"id": "toxic_creaking",
 	"version": "${version}",
 	"name": "Toxic Creaking",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Creakings now temporarily reduce Max HP on hit.",
 	"authors": [
-		"Me!"
+		"The Foxy Nerd (foxinerd)"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",

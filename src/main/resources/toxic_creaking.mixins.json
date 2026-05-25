@@ -3,7 +3,7 @@
 	"package": "net.foxinerd.toxic_creaking.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"CreakingResinPoison"
 	],
 	"injectors": {
 		"defaultRequire": 1
