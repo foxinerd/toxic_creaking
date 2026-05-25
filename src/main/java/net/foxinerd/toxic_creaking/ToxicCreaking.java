@@ -2,6 +2,7 @@ package net.foxinerd.toxic_creaking;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.foxinerd.toxic_creaking.item.TCPotions;
 import net.foxinerd.toxic_creaking.mobeffect.TCMobEffects;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -22,5 +23,6 @@ public class ToxicCreaking implements ModInitializer {
 
 		//LOGGER.info("Hello Fabric world!");
 		TCMobEffects.initialize();
+		TCPotions.initialize();
 	}
 }

@@ -1,0 +1,10 @@
+{
+  "item.minecraft.potion.effect.resin_poisoning": "Potion of Creaking",
+  "item.minecraft.lingering_potion.effect.resin_poisoning": "Lingering Potion of Creaking",
+  "item.minecraft.splash_potion.effect.resin_poisoning": "Splash Potion of Creaking",
+  "item.minecraft.tipped_arrow.effect.resin_poisoning":  "Arrow of Creaking",
+  "item.minecraft.potion.effect.vitality": "Potion of Vitality",
+  "item.minecraft.lingering_potion.effect.vitality": "Lingering Potion of Vitality",
+  "item.minecraft.splash_potion.effect.vitality": "Splash Potion of Vitality",
+  "item.minecraft.tipped_arrow.effect.vitality":  "Arrow of Vitality"
+}
