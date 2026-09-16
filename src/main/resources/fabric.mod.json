@@ -16,6 +16,9 @@
 	"entrypoints": {
 		"main": [
 			"net.foxinerd.toxic_creaking.ToxicCreaking"
+		],
+		"fabric-datagen": [
+			"net.foxinerd.toxic_creaking.datagen.TCDataGenerator"
 		]
 	},
 	"mixins": [
