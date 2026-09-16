@@ -69,7 +69,8 @@ public class TCPotions {
 
 
     public static void initialize() {
-        FabricPotionBrewingBuilder.BUILD.register(builder -> {
+        //Commented out due to data driven potion brewing in 26.3+
+        /*FabricPotionBrewingBuilder.BUILD.register(builder -> {
             builder.addMix(
                     // Input potion.
                     Potions.AWKWARD,
@@ -122,6 +123,7 @@ public class TCPotions {
                     // Output potion.
                     VITALITY_POTION_LONG
             );
-        });
+        });*/
+
     }
 }
